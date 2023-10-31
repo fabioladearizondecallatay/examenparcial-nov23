@@ -1,5 +1,9 @@
 # examenparcial-nov23
 
+Fabiola de Arizon de Callataÿ
+link del repositorio : https://github.com/fabioladearizondecallatay/examenparcial-nov23.git 
+
+
 1. Un pull request es cuando un programador decide hacer un fork de un repositorio a su cuenta, es decir copiar un repositorio de otra cuenta a su propia cuenta Github donde va a poder modificar, operar en el repositorio copiado sin modificar el inicial. La pull request es para cuando el programador quiere hacer un merge, es decir poner en comun lo que ha hecho desde su repositorio copiado al inicial, entonce va a crear una pull request donde hace una demanda al repositorio inicial y envia los cambios que desea hacer al repositorio inicial. Luego el programador del repositorio inicial puede decidir si acepta los cambios propuestos y mergea las ramas o los ficheros con los nuevos cambios.
 
 2. Un conflicto de fusion, es cuando uno quiere hacer un merge entre dos ramas o un pull, fetch, push con el repositorio remoto, pero las ramas que se quieren fusionar o actualizar no pueden porque hay una diferencia dentro de unos ficheros. Por ejemplo el read.me, el license o un fichero.html. Para resolverlo hay que modificar los ficheros para que lo que crea conflicto sea identico.
